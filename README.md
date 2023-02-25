@@ -6,3 +6,15 @@ Not-1: Yukardaki linkten indirilen dosya sıkıştırılmış vaziyettedir ..ext
 Not-2: sistemin düzgün çalışabilmesi için chromedriver indirip 'masaüstüne kurun (Desktop) ' nin içerisine kopyalayın 
 
 Not-3: chrome sürümünüz ile uyumlu olması lazım 
+
+
+
+======================================= SETUP dosyası olarak indirip pc ye Kurmak için =================================
+
+Aşağıdaki linkten setup dosyası şeklinde indirip Pc nize kurabilirsiniz. 
+
+https://drive.google.com/file/d/1-TLwbrrGQoiw9CVP9gjft8-rym8BAJCu/view?usp=sharing
+
+Not-2: sistemin düzgün çalışabilmesi için chromedriver indirip 'masaüstüne kurun (Desktop) ' nin içerisine kopyalayın 
+
+Not-3: chrome sürümünüz ile uyumlu olması lazım 
