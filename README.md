@@ -8,6 +8,7 @@ Not-2: sistemin düzgün çalışabilmesi için chromedriver indirip 'masaüstü
 
 Not-3: chrome sürümünüz ile uyumlu olması lazım 
 
+Kullanım klavuzu için : https://github.com/BgTrProject/kivy/blob/main/README.md
 
 
 ======================================= SETUP dosyası olarak indirip pc ye Kurmak için =================================
@@ -19,3 +20,5 @@ https://drive.google.com/file/d/1Bzol7QNOAxp2GXazYw7oRgkS3PD5tjRm/view?usp=shari
 Not-2: sistemin düzgün çalışabilmesi için chromedriver indirip 'masaüstüne kurun (Desktop) ' nin içerisine kopyalayın 
 
 Not-3: chrome sürümünüz ile uyumlu olması lazım 
+
+Kullanım klavuzu için : https://github.com/BgTrProject/kivy/blob/main/README.md
